@@ -21,3 +21,6 @@ Prevent Duplicate Reservations
 Installation
 npm install
 npm run dev
+
+PROJECT OVERVIEW,CODE EXPLANATION VIDEO:
+https://drive.google.com/file/d/17WbKMXy2A8uIqI9WRPrPUFVhtBF2B81V/view?usp=sharing
