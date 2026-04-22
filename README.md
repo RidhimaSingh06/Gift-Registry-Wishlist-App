@@ -71,5 +71,10 @@ Access the application interface via http://localhost:5173.
 Log in to the admin dashboard using your credentials to manage registry items.
 Share the public-facing application link with your friends and family so they can begin reserving gifts!
 
-PROJECT OVERVIEW,CODE EXPLANATION VIDEO:
-https://drive.google.com/file/d/17WbKMXy2A8uIqI9WRPrPUFVhtBF2B81V/view?usp=sharing
+FRONTEND VIDEO:
+https://drive.google.com/file/d/1218s4R9zOUAadGr8lu9c8ZTOUp9g7lVu/view?usp=drive_link
+BACKEND VIDEO:
+https://drive.google.com/file/d/1dsnN2ok6ru3P1Ddf_47vXyXe4XIq83SO/view?usp=sharing
+OUTPUT VIDEO:
+https://drive.google.com/file/d/1_n0xZLN9JnqQvv-8hP4xex7P5a2cNwIG/view?usp=sharing
+
