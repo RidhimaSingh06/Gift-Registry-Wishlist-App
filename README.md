@@ -73,8 +73,10 @@ Share the public-facing application link with your friends and family so they ca
 
 FRONTEND VIDEO:
 https://drive.google.com/file/d/1218s4R9zOUAadGr8lu9c8ZTOUp9g7lVu/view?usp=drive_link
+
 BACKEND VIDEO:
 https://drive.google.com/file/d/1dsnN2ok6ru3P1Ddf_47vXyXe4XIq83SO/view?usp=sharing
+
 OUTPUT VIDEO:
 https://drive.google.com/file/d/1_n0xZLN9JnqQvv-8hP4xex7P5a2cNwIG/view?usp=sharing
 
